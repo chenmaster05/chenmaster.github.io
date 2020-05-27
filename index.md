@@ -2,8 +2,8 @@
 
 公式：(
 
-$$x\in\mathbb{N}$$
+\[x\in\mathbb{N}\]
 
-行内公式：$$3\leq y$$
+行内公式：\(3\leq y\)
 
 测试
