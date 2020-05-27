@@ -1,3 +1,7 @@
+---
+mathjax: true
+layout: "default"
+---
 # 测试页面
 
 公式：
@@ -10,7 +14,7 @@
 
 ---
 
-公式：(
+公式：
 
 $$x\in\mathbb{N}$$
 
