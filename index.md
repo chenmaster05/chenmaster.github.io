@@ -1,7 +1,3 @@
----
-mathjax: true
-layout: "default"
----
 # 测试页面
 
 公式：

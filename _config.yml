@@ -3,10 +3,9 @@ markdown: maruku
 title: "标题"
 description: "描述"
 markdown: kramdown
-default:
+defaults:
   -
     scope:
-        path: ""
+      path: "" 
     values:
-        layout: "default"
-        mathjax: true
+      layout: "default"
