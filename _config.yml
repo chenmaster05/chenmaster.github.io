@@ -2,3 +2,10 @@ theme: jekyll-theme-architect
 markdown: maruku
 title: "标题"
 description: "描述"
+default:
+  -
+    scope:
+        path: ""
+    values:
+        layout: "default"
+        use_math: "true"
