@@ -6,7 +6,7 @@ markdown: kramdown
 defaults:
   -
     scope:
-      path: "posts"
+      path: ""
     values:
       layout: "post"
       mathjax: true
