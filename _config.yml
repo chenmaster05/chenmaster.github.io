@@ -8,4 +8,3 @@ default:
         path: ""
     values:
         layout: "default"
-        use_math: "true"
