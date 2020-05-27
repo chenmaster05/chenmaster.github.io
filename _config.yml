@@ -9,3 +9,4 @@ default:
         path: ""
     values:
         layout: "default"
+        mathjax: true
