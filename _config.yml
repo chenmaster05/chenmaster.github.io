@@ -1,5 +1,4 @@
 theme: jekyll-theme-architect
-markdown: maruku
 title: "标题"
 description: "描述"
 markdown: kramdown
