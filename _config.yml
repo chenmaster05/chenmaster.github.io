@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
-title: "标题"
-description: "描述"
+title: "Categorical Mathemagician"
+description: "If you can sort it slowly, you can sort it quickly!"
 markdown: kramdown
 defaults:
   -
