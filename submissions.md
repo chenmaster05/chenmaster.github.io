@@ -1,6 +1,7 @@
 ---
 title: "提交新题目"
 permalink: /submissions.html
+
 ---
 
 # 新题目投稿
@@ -14,11 +15,12 @@ permalink: /submissions.html
       </div>
     <div class="form-group">
         <label for="InputQues">题目：</label>
-        <input type="text" name="name" class="form-control" id="InputQues" placeholder="输入你的题目内容" required="required">
+        <textarea type="text" name="question" class="form-control" id="InputQues" placeholder="输入你的题目内容" required="required"></textarea>
       </div>
      <div class="form-group mt-3">
         <label class="mr-2">上传相关图片：</label>
         <input type="file" name="file">
       </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" class="btn btn-primary">提交</button>
 </form>
+
