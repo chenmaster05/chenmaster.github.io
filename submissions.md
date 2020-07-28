@@ -13,18 +13,6 @@ permalink: /submissions.html
 
 ## Categorical Mathemagicians 主题库题目规范
 
-### 基本规范
-
-- 所有数学符号、常数、作为变量的字母应使用 LaTeX 公式。
-- 中文与英文字符或公式之间以一个空格隔开，**但中文标点符号与英文字符或公式之间不应有空格**，如：
-
-```markdown
-Food 和 Uranium 是好吃的。
-有一个整数 $n$。
-```
-
-- 句末的句号不能漏掉。
-
 ### 题面
 
 #### 题目背景
@@ -118,16 +106,6 @@ Food 和 Uranium 是好吃的。
 在一般的数学题中，思维难度应占主要部分。当然，如 2017IMO/Q5 那样的工程题也有其存在的道理——毕竟数学的目的除了考察做题者的思维能力，还有和大学学习对接的思路以及文档学习能力。但在一般的数学中，考察更多的应当还是计算与思维能力。
 
 ### 题面
-
-#### 使用 LaTeX 书写公式
-
-网上有很多 LaTeX 的教程，如：
-
-- [LaTeX 入门](https://oi-wiki.org/intro/latex/#_22)
-- [LaTeX 数学公式大全](https://www.luogu.com.cn/blog/IowaBattleship/latex-gong-shi-tai-quan)
-- [LaTeX 各种命令，符号](https://blog.csdn.net/garfielder007/article/details/51646604)
-
-使用时请注意 [LaTeX 公式的格式要求](https://oi-wiki.org/intro/htc/#latex) 。
 
 #### 题目描述
 
