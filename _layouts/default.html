@@ -29,6 +29,7 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
+          {{ site.categories | jsonify }}
           {{ content }}
           <h3>题目</h3>
           <ul>
