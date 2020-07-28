@@ -20,13 +20,13 @@ var sticky = navbar.offsetTop;
 </script>
 
 <style>
-.navbar {
+#navbar {
   overflow: hidden;
   background-color: #2879d0;
   top: 0;
 }
 
-.navbar a {
+#navbar a {
   float: left;
   display: block;
   color: white;
@@ -37,29 +37,29 @@ var sticky = navbar.offsetTop;
 
 
 /* Right-aligned link */
-.navbar a.right {
+#navbar a.right {
   float: right;
 }
 
 /* Change color on hover */
-.navbar a:hover {
+#navbar a:hover {
   background-color: #70b5ff;
   color: black;
 }
 
 /* Active/current link */
-.navbar a.active {
+#navbar a.active {
   background-color: #549deb;
   color: white;
 }
 
-.sticky {
+#sticky {
   position: fixed;
   top: 0;
   width: 100%;
 }
 
-.sticky + .content {
+#sticky + .content {
   padding-top: 60px;
 }
 
