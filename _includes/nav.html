@@ -10,9 +10,9 @@ function myFunction() {
   if (navbar == undefined || navbar == null){
     // Get the navbar
     var navbar = document.getElementById("navbar");
-
     // Get the offset position of the navbar
     var sticky = navbar.offsetTop;
+    console.log(sticky)
   }
   if (window.pageYOffset >= sticky) {
     navbar.classList.add("sticky")
