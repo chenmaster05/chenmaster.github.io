@@ -1,6 +1,6 @@
 ---
 title: "测试题目"
-categories: [测试, 题目]
+categories: 题目
 ---
 
 
