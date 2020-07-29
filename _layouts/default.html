@@ -33,7 +33,7 @@
           <h3>题目</h3>
           <ul>
             {% for post in site.categories.题目 %}
-            {{post | jsonify}}
+            {{site.categories | jsonify}}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
           </ul>
@@ -45,7 +45,7 @@
           </ul>
           <h3>测试</h3>
           <ul>
-            {% for post in site.categories.测试 %}
+             {% for post in site.categories.测试 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
           </ul>
